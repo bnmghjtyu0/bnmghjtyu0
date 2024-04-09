@@ -1,4 +1,11 @@
 ### Hi there 👋
+- My name is Richard.Liao
+- 🔭 I’m currently working on TPIsoftware 昕力資訊
+- 🌱 I’m currently learning micro-frontend
+- 📫 How to reach me: bnmghjtyu0@gmail.com
+- https://www.cakeresume.com/richardliao
+
+
 
 <!--
 **bnmghjtyu0/bnmghjtyu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- good portfolio: https://github.com/irfanullahjan
 -->
