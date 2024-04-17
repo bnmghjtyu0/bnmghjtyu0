@@ -4,7 +4,7 @@
 
 | Description | Projects | Source Code  | Link |
 | --- | --- | --- | --- |
-| three.js | JavaScript(TypeScript), Three.js, React.js | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
+| 3D platform | JavaScript(TypeScript), Three.js, React.js | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
 | Candlestick chart | JavaScript, d3.js | [Source Code](https://github.com/bnmghjtyu0/d3-stock) | N/A |
 
 - 🔭 I’m currently working on TPIsoftware 昕力資訊
