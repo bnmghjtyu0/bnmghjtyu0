@@ -4,6 +4,7 @@
 
 | Description | Projects | Source Code  | Link |
 | --- | --- | --- | --- |
+| 音樂時光 | Angular16, Nx.js, JavaScript(TypeScript) | N/A | https://musiclight-angular.vercel.app/home |
 | 會動的狐狸 - 3D 網頁 | Three.js, React.js, JavaScript(TypeScript) | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
 | k線 | D3.js, JavaScript | [Source Code](https://github.com/bnmghjtyu0/d3-stock) | N/A |
 | 快篩實名制藥局地圖 | Leaflet.js, React16, JavaScript | [Source Code](https://github.com/bnmghjtyu0/maskdonotgo) | https://bnmghjtyu0.github.io/maskdonotgo/ |
