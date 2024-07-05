@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | 會動的狐狸 - 3D 網頁 | Three.js, React.js, JavaScript(TypeScript) | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
 | k線 | D3.js, JavaScript | [Source Code](https://github.com/bnmghjtyu0/d3-stock) | N/A |
-| 快篩實名制藥局地圖 | Leaflet.js, JavaScript | [Source Code](https://github.com/bnmghjtyu0/maskdonotgo) | https://bnmghjtyu0.github.io/maskdonotgo/ |
+| 快篩實名制藥局地圖 | Leaflet.js, React16, JavaScript | [Source Code](https://github.com/bnmghjtyu0/maskdonotgo) | https://bnmghjtyu0.github.io/maskdonotgo/ |
 
 - 🔭 I’m currently working on 昕力資訊.
 - 📫 How to reach me: bnmghjtyu0@gmail.com
