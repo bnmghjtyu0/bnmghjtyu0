@@ -1,17 +1,17 @@
 ### Hi there 👋
 - My name is Richard.Liao
-- My project portfolio:
+- There is my portfolio:
 
 | Description | Projects | Source Code  | Link |
 | --- | --- | --- | --- |
-| 3D platform | JavaScript(TypeScript), Three.js, React.js | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
-| Candlestick chart | JavaScript, d3.js | [Source Code](https://github.com/bnmghjtyu0/d3-stock) | N/A |
-| 快篩實名制藥局地圖 | JavaScript, Leaflet.js | [Source Code](https://github.com/bnmghjtyu0/maskdonotgo) | https://bnmghjtyu0.github.io/maskdonotgo/ |
+| 會動的狐狸 - 3D 網頁 | Three.js, React.js, JavaScript(TypeScript) | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
+| k線 | D3.js, JavaScript | [Source Code](https://github.com/bnmghjtyu0/d3-stock) | N/A |
+| 快篩實名制藥局地圖 | Leaflet.js, JavaScript | [Source Code](https://github.com/bnmghjtyu0/maskdonotgo) | https://bnmghjtyu0.github.io/maskdonotgo/ |
 
-- 🔭 I’m currently working on TPIsoftware 昕力資訊
-- 🌱 I’m currently learning micro-frontend
+- 🔭 I’m currently working on 昕力資訊.
 - 📫 How to reach me: bnmghjtyu0@gmail.com
 - https://www.cakeresume.com/richardliao
+- https://medium.com/@pochangliao
 
 <!--
 **bnmghjtyu0/bnmghjtyu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
