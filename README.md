@@ -11,7 +11,7 @@ ADK 作品集
 前端作品集
 | Projects | Skill | Source Code  | Link |
 | --- | --- | --- | --- |
-| 音樂時光 | Angular16, Nx.js, JavaScript(TypeScript) | N/A | https://musiclight-angular.vercel.app/home |
+| 音樂時光 | Angular16, Nx.js, JavaScript(TypeScript) | N/A | https://musiclight-studio.com |
 | 會動的狐狸 - 3D 網頁 | Three.js, React.js, JavaScript(TypeScript) | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
 | k線 | D3.js, JavaScript | [Source Code](https://github.com/bnmghjtyu0/d3-stock) | N/A |
 
