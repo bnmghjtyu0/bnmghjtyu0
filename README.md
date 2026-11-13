@@ -5,7 +5,7 @@
 ADK
 | Projects | Skill | Source Code  | Link |
 | --- | --- | --- | --- |
-| blog-writer | ADK | [Source Code](https://github.com/bnmghjtyu0/adk-blog-writer) | https://github.com/bnmghjtyu0/adk-blog-writer |
+| blog-writer | ADK | [Source Code](https://github.com/bnmghjtyu0/adk-blog-writer) | N/A |
 
 作品集
 | Projects | Skill | Source Code  | Link |
