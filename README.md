@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name is Richard.Liao
+- Hi ^_^, I'm Richard Liao, a senior frontend engineer.
 - There is my portfolio:
 
 ADK 作品集
