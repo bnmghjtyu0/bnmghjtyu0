@@ -1,5 +1,6 @@
 ### Hi ^_^, I'm Richard Liao, a senior frontend engineer.
-- [linkedin](https://www.linkedin.com/in/richard-liao-34b92510b)
+
+[linkedin](https://www.linkedin.com/in/richard-liao-34b92510b)
 
 ADK 作品集
 | Projects | Skill | Source Code  | WEB |
