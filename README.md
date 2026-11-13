@@ -3,13 +3,13 @@
 - There is my portfolio:
 
 ADK 作品集
-| Projects | Skill | Source Code  | Link |
+| Projects | Skill | Source Code  | WEB |
 | --- | --- | --- | --- |
 | blog-writer | ADK | [Source Code](https://github.com/bnmghjtyu0/adk-blog-writer) | N/A |
 | text-to-image | ADK, ComfyUI | [Source Code](https://github.com/bnmghjtyu0/practice-agent-101-week1) | N/A |
 
 前端作品集
-| Projects | Skill | Source Code  | Link |
+| Projects | Skill | Source Code  | WEB |
 | --- | --- | --- | --- |
 | 音樂時光 | Angular16, Nx.js, JavaScript(TypeScript) | N/A | https://musiclight-studio.com |
 | 會動的狐狸 - 3D 網頁 | Three.js, React.js, JavaScript(TypeScript) | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
