@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Hi ^_^, I'm Richard Liao, a senior frontend engineer.
-- There is my portfolio:
+- [linkedin](https://www.linkedin.com/in/richard-liao-34b92510b)
 
 ADK 作品集
 | Projects | Skill | Source Code  | WEB |
@@ -14,8 +14,6 @@ ADK 作品集
 | 音樂時光 | Angular16, Nx.js, JavaScript(TypeScript) | N/A | https://musiclight-studio.com |
 | 會動的狐狸 - 3D 網頁 | Three.js, React.js, JavaScript(TypeScript) | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
 | k線 | D3.js, JavaScript | [Source Code](https://github.com/bnmghjtyu0/d3-stock) | N/A |
-
-- [linkedin](https://www.linkedin.com/in/richard-liao-34b92510b)
 
 <!--
 **bnmghjtyu0/bnmghjtyu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
