@@ -15,10 +15,7 @@ ADK 作品集
 | 會動的狐狸 - 3D 網頁 | Three.js, React.js, JavaScript(TypeScript) | [Source Code](https://github.com/bnmghjtyu0/react-three.js) | https://react-three-js-omega.vercel.app |
 | k線 | D3.js, JavaScript | [Source Code](https://github.com/bnmghjtyu0/d3-stock) | N/A |
 
-- 🔭 I’m currently working on 昕力資訊.
-- 📫 How to reach me: bnmghjtyu0@gmail.com
-- https://www.cakeresume.com/richardliao
-- https://medium.com/@pochangliao
+- [linkedin](https://www.linkedin.com/in/richard-liao-34b92510b)
 
 <!--
 **bnmghjtyu0/bnmghjtyu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
