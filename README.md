@@ -2,14 +2,13 @@
 - My name is Richard.Liao
 - There is my portfolio:
 
-ADK
+ADK 作品集
 | Projects | Skill | Source Code  | Link |
 | --- | --- | --- | --- |
 | blog-writer | ADK | [Source Code](https://github.com/bnmghjtyu0/adk-blog-writer) | N/A |
 | text-to-image | ADK, ComfyUI | [Source Code](https://github.com/bnmghjtyu0/practice-agent-101-week1) | N/A |
 
-richard-github:bnmghjtyu0/practice-agent-101-week1.git
-作品集
+前端作品集
 | Projects | Skill | Source Code  | Link |
 | --- | --- | --- | --- |
 | 音樂時光 | Angular16, Nx.js, JavaScript(TypeScript) | N/A | https://musiclight-angular.vercel.app/home |
